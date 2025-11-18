@@ -12,4 +12,8 @@ fn main() {
     println!("Hello, world!");
 }
 ```
+```bash
+[dependencies]
+codex_sso_flow = {git = "https://github.com/anshjoseph/codex_sso_flow"}
+```
 

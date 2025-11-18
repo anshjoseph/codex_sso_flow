@@ -2,6 +2,7 @@
 name = "codex_sso_flow"
 version = "0.1.0"
 edition = "2024"
+authors = ["r ansh joseph"]
 
 [dependencies]
 base64 = "0.22.1"
